@@ -79,6 +79,9 @@
     .display-4{
         font-size:3rem;
     }
+    .link-color{
+        font-size: 15px;
+    }
     
 }
 @media(max-width:991px){
@@ -132,7 +135,10 @@
     .display-4{
         font-size: 2.5rem;
     }
-
+    .form-pad{
+        padding: 5px;
+    }
+    
     
     
 }
@@ -187,6 +193,9 @@
     .display-4{
         font-size: 2rem;
 
+    }
+    .link-color{
+        font-size: 14px;
     }
 
     
