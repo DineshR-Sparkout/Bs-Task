@@ -1,0 +1,122 @@
+:root{
+    --green:#90ac33;
+    --yellow:#afaf30;
+    --orange:#b16c2c;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.green-background{
+    background-color: var(--green);
+}
+.home-1{
+    height: 600px;
+}
+.perfect-home{
+    padding-left: 130px;
+}
+.head1{
+    font-size: 52px;
+}
+.yellow-background{
+    background-color: var(--yellow);
+}
+.orange-background{
+    background-color: var(--orange);
+}
+.fa-angle-right,.fa-angle-left{
+    background-color:rgba(0,0,0,0.8);
+    margin-top: 100px;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+.form-content{
+    background-color:#f7f9fb;
+}
+.head2{
+    font-size: 50px;
+}
+.form-label{
+    font-size: 13.5px;
+    color:#847977;
+}
+.form-inside{
+    background-color:#f2f2f2;
+}
+.form{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: -350px;
+}
+.navbar-collapse{
+    flex-grow:0;
+}
+
+#logo{
+    font-size: 42px;
+}
+.nav-item{
+    font-size: 13.5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: black;
+    margin-top: 5px;
+}
+.navigation{
+    margin-top: 40px;
+}
+.card{
+    border: none;
+}
+.video-img{
+    height: 500px;
+    width:100%
+}
+hr{
+    width: 30px;
+}
+.icon-body{
+    padding: 0;
+}
+.purchase{
+    font-size: 13px;
+    padding: 13px 35px;
+    border-radius:4px;
+}
+.video{
+    font-size: 90px;
+}
+.card-para{
+    font-size: 16px;
+}
+.card-hover:hover{
+    color: blue;
+}
+.bg-image{
+    background-image: url(../images/home-img-4.jpg);
+}
+.number-card{
+    margin: 0 150px;
+}
+.partner-logo{
+    margin: 0 130px;
+}
+::placeholder{
+    color:#bdc5da;
+}
+.form-pad{
+    padding: 10px;
+}
+.copyright{
+    font-size: 12px;
+    color:#c5c5c5;
+}
+.link-color{
+    color: #c5c5c5; 
+}
+.home-head{
+    font-size: 32px;
+}
+

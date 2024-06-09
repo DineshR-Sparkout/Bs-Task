@@ -1,0 +1,134 @@
+@media(max-width:1399px){
+    #logo{
+        font-size: 38px;
+    }
+    .head1{
+        font-size: 48px;
+    }
+    .lead{
+        font-size: 1.2rem;
+    }
+    .video{
+        font-size: 80px;
+    }
+    .home-1{
+        height: 500px;
+    }
+    .head2{
+        font-size: 40px;
+    }
+    
+}
+@media(max-width:1199px){
+    .nav-item{
+        font-size: 13px;
+        padding-left:5px;
+        padding-right: 5px;
+    }    
+    .nav-link{
+        padding: 0;
+    }
+    #logo{
+        font-size: 34px;
+    }
+    .head1{
+        font-size: 40px;
+    }
+    .home-1{
+        height: 400px;
+    }   
+    .lead{
+        font-size: 1.1rem;
+    }
+    .head2{
+        font-size: 35px;
+    }
+    .form-label{
+        font-size: 13px;
+    }
+    .form{
+        margin-left:40px ;
+        margin-right:40px ;
+    }
+    .home-head{
+        font-size: 24px;
+    }
+    
+
+}
+@media(max-width:991px){
+    #logo{
+        font-size: 30px;
+    }
+    .head1{
+        font-size: 32px;
+    }
+    .perfect-home{
+        padding-left: 100px;
+    }
+    .home-1{
+        height: 350px;
+    }
+    .lead{
+        font-size: 1rem;
+    }
+    .fa-angle-right,.fa-angle-left{
+        margin-top: 0px;
+        padding-right: 12px;
+        padding-left: 12px;
+    }
+    .head2{
+        font-size: 30px;
+        margin-top: 30px;
+    }
+    .form{
+        margin-top: 20px;
+        margin-left: 10px;
+        margin-right: 10px;  
+    }
+    
+    
+}
+@media(max-width:767px){
+    #logo{
+        font-size: 26px;
+    }
+    .head1{
+        font-size: 24px;
+    }
+    .green-background,.yellow-background,.orange-background{
+        height: 300px;
+    }
+    .perfect-home{
+        padding-left:50px;
+        padding-right: 50px;
+    }
+    .lead{
+        font-size: 0.9rem;
+    }
+    .head2{
+        font-size: 25px;
+        margin-top: 20px;
+    }
+    .form-label{
+        font-size: 12px;
+    }
+    .home-head{
+        font-size: 20px;
+    }
+    
+    
+    
+}
+@media(max-width:575px){
+    .head1{
+        font-size: 16px;
+    }
+    .head2{
+        font-size: 20px;
+    }
+    .green-background,.yellow-background,.orange-background{
+        height: 250px;
+    }
+
+}
