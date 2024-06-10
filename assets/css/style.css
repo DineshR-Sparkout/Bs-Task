@@ -13,6 +13,7 @@
 }
 .home-1{
     height: 600px;
+    width: 100%;
 }
 .perfect-home{
     padding-left: 130px;
@@ -96,6 +97,8 @@ hr{
 }
 .bg-image{
     background-image: url(../images/home-img-4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .number-card{
     margin: 0 150px;
